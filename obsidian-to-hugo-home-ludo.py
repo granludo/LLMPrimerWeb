@@ -7,8 +7,8 @@ def process_file(file_contents: str) -> str:
 
 
 obsidian_to_hugo = ObsidianToHugo(
-    obsidian_vault_dir="/Users/ludo/Code/LLMPrimerWeb-obsidian",
-    hugo_content_dir="/Users/ludo/Code/LLMPrimerWeb-hugo/content",
+    obsidian_vault_dir="/Users/ludo/Code/LLMPrimerWeb/LLMPrimerWeb-obsidian",
+    hugo_content_dir="/Users/ludo/Code/LLMPrimerWeb/LLMPrimerWeb-hugo/content",
     processors=[process_file],
 )
 

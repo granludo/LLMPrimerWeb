@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /tags/*
+
+Sitemap: https://wasabi.essi.upc.edu/LLMPrimerWeb/sitemap.xml
