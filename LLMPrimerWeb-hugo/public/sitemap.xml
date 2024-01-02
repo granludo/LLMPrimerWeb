@@ -2,12 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://wasabi.essi.upc.edu/LLMPrimerWeb/Index/</loc>
+    <loc>https://llmprimer.com/Index/</loc>
+    <lastmod>2024-01-01T20:04:06+01:00</lastmod>
   </url><url>
-    <loc>https://wasabi.essi.upc.edu/LLMPrimerWeb/Welcome/</loc>
+    <loc>https://llmprimer.com/</loc>
   </url><url>
-    <loc>https://wasabi.essi.upc.edu/LLMPrimerWeb/</loc>
-  </url><url>
-    <loc>https://wasabi.essi.upc.edu/LLMPrimerWeb/tags/</loc>
+    <loc>https://llmprimer.com/tags/</loc>
   </url>
 </urlset>

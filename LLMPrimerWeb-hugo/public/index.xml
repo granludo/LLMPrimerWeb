@@ -2,24 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>LLMPrimer</title>
-    <link>https://wasabi.essi.upc.edu/LLMPrimerWeb/</link>
+    <link>https://llmprimer.com/</link>
     <description>Recent content on LLMPrimer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <atom:link href="https://wasabi.essi.upc.edu/LLMPrimerWeb/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://llmprimer.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>https://wasabi.essi.upc.edu/LLMPrimerWeb/Index/</link>
+      <link>https://llmprimer.com/Index/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://wasabi.essi.upc.edu/LLMPrimerWeb/Index/</guid>
+      <guid>https://llmprimer.com/Index/</guid>
       <description>Hellow world</description>
-    </item>
-    <item>
-      <title></title>
-      <link>https://wasabi.essi.upc.edu/LLMPrimerWeb/Welcome/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://wasabi.essi.upc.edu/LLMPrimerWeb/Welcome/</guid>
-      <description>This is your new vault.&#xA;Make a note of something, create a link, or try the Importer!&#xA;When you&amp;rsquo;re ready, delete this note and make the vault your own.</description>
     </item>
   </channel>
 </rss>
